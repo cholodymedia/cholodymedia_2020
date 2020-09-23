@@ -1,12 +1,12 @@
 <template>
   <div class="start">
     <div class="logo-mini">
-      <img src="@/assets/logo/logo_bright.png">
+      <img src="@/assets/logo/logo-light-mini.png">
     </div>
     <div class="logo">cholodymedia</div>
     <div class="links">
       <div class="mini-logo">
-        <img src="@/assets/logo/logo_dark.png">
+        <img src="@/assets/logo/logo-dark-mini.png">
       </div>
       <a href="https://github.com/cholodymedia" class="link" target="blank">
         <font-awesome-icon :icon="['fab', 'github']" />
@@ -21,7 +21,7 @@
       </div>
     </div>
     <div class="right">
-      <img src="@/assets/logo/logo_dark.png">
+      <img src="@/assets/logo/logo-dark-mini.png">
     </div>
   </div>
 </template>

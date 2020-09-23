@@ -7,12 +7,12 @@
       </div>
       <div class="main-box">
         <div class="row">
-          <ProjectCard bgColor="#06d6a0" bgImage="frogero-page.png" name="Frogero" logo="frogero.png" description="Online platform for training speaking in foreign languages." website="https://www.frogero.com/"/>
-          <ProjectCard bgColor="#343a40" bgImage="easy-page.png" name="Easy-Analytics" logo="easy.png" description="App with basic analytics for your website." website="https://easy-analytics.netlify.app/"/>
+          <ProjectCard bgColor="#06d6a0" bgImage="frogero-page-mini.png" name="Frogero" logo="frogero-mini.png" description="Online platform for training speaking in foreign languages." website="https://www.frogero.com/"/>
+          <ProjectCard bgColor="#343a40" bgImage="easy-page-mini.png" name="Easy-Analytics" logo="easy-mini.png" description="App with basic analytics for your website." website="https://easy-analytics.netlify.app/"/>
         </div>
         <div class="row">
-          <ProjectCard bgColor="#b76801" bgImage="poten-page.png" name="Potencjałometr" logo="meter.png" description="Interactive test of professional predispositions. Made as a school project." website="http://p.staff.edu.pl/"/>
-          <ProjectCard bgColor="#e76f51" bgImage="frogero-page.png" name="Debug JS" logo="debugjs.png" description="A JS script that shows borders of website elements made to help build websites from scratch." website="https://cholodymedia.github.io/debug/" github="https://github.com/cholodymedia/debug"/>
+          <ProjectCard bgColor="#b76801" bgImage="poten-page-mini.png" name="Potencjałometr" logo="meter-mini.png" description="Interactive test of professional predispositions. Made as a school project." website="http://p.staff.edu.pl/"/>
+          <ProjectCard bgColor="#e76f51" bgImage="debugjs-page-mini.png" name="Debug JS" logo="debugjs-mini.png" description="A JS script that shows borders of website elements made to help build websites from scratch." website="https://cholodymedia.github.io/debug/" github="https://github.com/cholodymedia/debug"/>
         </div>
       </div>
       <div class="bottom"></div>

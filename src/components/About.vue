@@ -2,7 +2,7 @@
   <div class="about">
     <div class="center-box">
       <div class="image-box">
-        <img src="@/assets/images/profile.jpg">
+        <img src="@/assets/images/profile-mini.png">
       </div>
       <div class="content-box">
         <div class="big">About Me</div>
